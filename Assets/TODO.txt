@@ -1,0 +1,26 @@
+TO DO:
+
+- Do terrain
+	X Do noise terrain
+	X Do procedural generation of terrain
+
+- Do UI
+	X Do connection menu
+	X Do gameplay text
+	- Do title graphic (if time)
+
+- Do game mechanics
+	X Do Muse algorithm
+	X Do sideways movement
+	X Do ring triggers
+	X Do ring generation
+	X Do scoring system
+	X Fix player rotation (if time)
+	- Do timer
+
+- Do visuals
+	X Do player mesh
+
+- Do sound
+	X Do ring sounds
+	X Do music
